@@ -61,3 +61,5 @@ tl.start(block=True)
 * **Sankalp Jonna**
 
 Email me with any queries: [sankalpjonna@gmail.com](sankalpjonna@gmail.com).
+## Article on Medium
+[http://answers.seneye.com/en/Seneye_Products/Seneye_hobbyist_developer_information](http://answers.seneye.com/en/Seneye_Products/Seneye_hobbyist_developer_information)
