@@ -62,4 +62,4 @@ tl.start(block=True)
 
 Email me with any queries: [sankalpjonna@gmail.com](sankalpjonna@gmail.com).
 ## Article on Medium
-[http://answers.seneye.com/en/Seneye_Products/Seneye_hobbyist_developer_information](http://answers.seneye.com/en/Seneye_Products/Seneye_hobbyist_developer_information)
+[An Elegant Way To Run Periodic Tasks In Python](https://medium.com/greedygame-engineering/an-elegant-way-to-run-periodic-tasks-in-python-61b7c477b679)
